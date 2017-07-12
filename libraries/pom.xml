@@ -261,6 +261,11 @@
 			<artifactId>datanucleus-xml</artifactId>
 			<version>5.0.0-release</version>
 		</dependency>
+		<dependency>
+			<groupId>net.openhft</groupId>
+			<artifactId>chronicle</artifactId>
+			<version>3.6.4</version>
+		</dependency>
 	</dependencies>
 
 	<properties>
